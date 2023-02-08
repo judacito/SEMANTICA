@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+    color: rgb(216, 141, 28);
+}
+
+nav {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+section {
+    background-color: azure;
+    text-align: center;
+}
+
+article {
+    background-color: chartreuse;
+    text-align: center;
+}
+
+aside {
+    background-color: khaki;
+    text-align: center;
+}
+
+footer {
+    background-color: yellow;
+    text-align: center;
+}
+
+.altura1 {
+    height: 10vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+.altura3 {
+    height: 70vh;
+}
+
+.altura4 {
+    height: 10vh;
+}
+}
